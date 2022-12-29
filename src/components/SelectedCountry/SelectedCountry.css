@@ -1,0 +1,19 @@
+.selected-country {
+    position: sticky;
+    top: 20px;
+    border: none;
+}
+.country-img{
+    width: 200px;
+    height: 100px;
+}
+.country-name{
+    font-weight: bold;
+}
+.capital{
+    font-size: 18px;
+    font-weight: bold;
+}
+.country-name:hover{
+    color: crimson;
+}

@@ -1,0 +1,21 @@
+.country{
+    border: 1px solid slategray;
+    border-radius: 10px;
+    padding: 10px;
+}
+.country img{
+    width: 150px;
+    height: 100px;
+}
+.country-btn{
+    border: none;
+    padding: 5px 20px;
+    font-size: 20px;
+    background-color: rgb(255, 193, 193);
+    animation-name: button;
+    animation-duration: 2s
+}
+.country-btn:hover{
+    background-color: slateblue;
+    color: white;
+}
